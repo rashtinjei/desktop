@@ -1,5 +1,6 @@
 {
   "releases": {
+    "2.5.4-test7": ["Testing electron 9 and a bunch of other stuff"],
     "2.5.4-beta1": [
       "[Fixed] Dialog now clears filters on esc and closes on double esc - #6369. Thanks @AndreiMaga!",
       "[Fixed] Fix BBEdit integration - #9050. Thanks @grumpybozo!",
